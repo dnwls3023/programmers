@@ -3,6 +3,11 @@
 #include <cmath> 
 #include <iostream>
 using namespace std;
+
+// 2020 카카오 인턴십 키패드누르기
+
+// 문제 후기 : 생각보다 어려웠음.
+
 pair<int,int> mapping[12] = {{3,1},{0,0},{0,1},
                              {0,2},{1,0},{1,1},
                              {1,2},{2,0},{2,1},{2,2},{3,0},{3,2}};
